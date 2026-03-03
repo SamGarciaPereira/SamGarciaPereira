@@ -112,6 +112,14 @@ Me chamo Samuel Garcia Pereira, tenho 20 anos e sou natural de Curitiba-PR. Atua
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Astro" 
+    title="Astro"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" 
+/>
 
 <br/>
 <br/>
