@@ -94,20 +94,14 @@ Me chamo Samuel Garcia Pereira, tenho 20 anos e sou natural de Curitiba-PR. Atua
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SamGarciaPereira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<p align="center">
+  <a href="https://nice-readme.vercel.app/github-stats" target="_blank">
+    <img src="https://helio-github-stats.vercel.app/api?username=samgarciapereira&custom_title=GitHub+Stats&theme=gotham&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short"
+    width="48%" style="margin-right: 20px;" />
+  </a>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGarciaPereira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <a href="https://nice-readme.vercel.app/top-langs" target="_blank">
+    <img src="https://helio-github-stats.vercel.app/api/top-langs?username=samgarciapereira&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&hide=swig%2C+css%2C"
+    width="48%" />
+  </a>
 </p>
