@@ -1,7 +1,7 @@
 # 💻 Hi! I'm Samuel Pereira
 **`Fullstack Developer | Computer Science Student`**
 
-My name is Samuel Garcia Pereira, I'm 20 years old and from Curitiba-PR, Brazil. Currently, I work as a Fullstack Developer at Energié and study Computer Science at PUCPR. I am passionate about technology, focused on solving complex problems, and building scalable solutions.
+My name is Samuel Garcia Pereira, I'm 21 years old and from Curitiba-PR, Brazil. Currently, I work as a Fullstack Developer at Energié and study Computer Science at PUCPR. I am passionate about technology, focused on solving complex problems, and building scalable solutions.
 
 ### 👨‍💻 About me
 
