@@ -29,9 +29,7 @@ My name is Samuel Garcia Pereira, I'm 21 years old and from Curitiba-PR, Brazil.
     <img src="https://helio-github-stats.vercel.app/api?username=samgarciapereira&custom_title=GitHub+Stats&theme=gotham&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" />
   </a>
   <br/><br/>
-  <a href="https://nice-readme.vercel.app/top-langs" target="_blank">
-    <img src="https://helio-github-stats.vercel.app/api/top-langs?username=samgarciapereira&layout=compact&stats_format=percentages&theme=gotham&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&hide_border=false&border_radius=4.5&card_width=466&locale=en&custom_title=Most+used+languages&hide=swig%2C+css%2C" />
-  </a>
+  <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=samgarciapereira&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+used+languages&hide=C" alt="Most used languages" width="466" height="auto" loading="lazy" /></a>
 </p>
 
 <br/>
